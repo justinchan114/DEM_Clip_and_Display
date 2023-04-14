@@ -1,5 +1,5 @@
 # DEM_Clip_and_Display
-Digital Elevation Model(DEM) clipping and crs projection with GDAL, and display with folium.
+Digital Elevation Model(DEM) clipping and crs projection with GDAL, and display with folium. LiDAR data are not uploaded to GitHub due to size limit.
 
 ## Area of study
 The area of study is in Abbotsford, BC, Canada.
