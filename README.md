@@ -1,5 +1,5 @@
 # DEM_clip-display
-DEM clipping and crs projection with GDAL, and display with folium.
+Digital Elevation Model(DEM) clipping and crs projection with GDAL, and display with folium.
 
 ## Area of study
 The area of study is in Abbotsford, BC, Canada.
