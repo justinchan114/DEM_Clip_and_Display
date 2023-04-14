@@ -1,4 +1,4 @@
-# DEM_clip-display
+# DEM_Clip_and_Display
 Digital Elevation Model(DEM) clipping and crs projection with GDAL, and display with folium.
 
 ## Area of study
